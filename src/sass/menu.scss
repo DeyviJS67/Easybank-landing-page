@@ -31,9 +31,9 @@
          top: 100%;
          padding: 1em;
          left: 0;
-         right: 0;
+         right: 0; 
          height: 100vh;
-         background: linear-gradient(to bottom, var(--darkBlue) 0%, transparent 90%);
+         background: linear-gradient(to bottom, var(--darkBlue) 0%, transparent 90%); 
          .menu__item {
            &:first-of-type a {
              padding-top: 2em;

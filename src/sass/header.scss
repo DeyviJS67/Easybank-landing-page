@@ -11,9 +11,9 @@
     .button {
       display: none;
     }
-    &__content {
+    &__content { 
       display: flex;
-      justify-content: space-between;
+      justify-content: space-between; 
     }
     @media screen and (min-width: 1024px){
       .button {
